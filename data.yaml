@@ -1,7 +1,6 @@
-
 train: /content/animal_detection_dataset/train/images
 val: /content/animal_detection_dataset/val/images
 test: /content/animal_detection_dataset/test/images
 
 nc: 3
-names: ['Leopard', 'Wildboar', 'Elephant']
+names: ["Leopard", "Wildboar", "Elephant"]
